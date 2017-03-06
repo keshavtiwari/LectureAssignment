@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalSlider">
+        <attr name="bcolor" format="color" />
+        <attr name="pcolor" format="color" />
+
+    </declare-styleable>
+
+</resources>
